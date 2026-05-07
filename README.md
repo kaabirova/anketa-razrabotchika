@@ -37,7 +37,7 @@ JavaScript (опционально): Для обработки события о
 Клонируйте репозиторий:
 
 Bash
-git clone https://github.com/your-username/developer-questionnaire.git
+git clone git@github.com:kaabirova/anketa-razrabotchika.git
 Перейдите в папку проекта:
 
 Bash
